@@ -10,6 +10,7 @@ function CadastroVideo(){
       <Link to="/cadastro/categoria">
         Cadastrar Categoria
       </Link>
+      
     </PageDefault>
   );
 }
