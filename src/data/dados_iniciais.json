@@ -1,169 +1,202 @@
 {
   "categorias": [
     {
-      "titulo": "Alura",
-      "link": "https://www.alura.com.br",
-      "cor": "#2457f2",
+      "titulo": "Queen",
+      "cor": "#00C86f",
       "link_extra": {
-        "text": "Vídeos favoritos da Alura",
-        "url": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCiMhD4jzUqG-IgPzUmmytRQ"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Bohemian Rhapsody",
+          "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
         },
         {
-          "titulo": "Como começar a programar",
-          "url": "https://www.youtube.com/watch?v=nLPssMXOExM"
+          "titulo": "Don't stop me now",
+          "url": "https://www.youtube.com/watch?v=HgzGwKwLmgM"
         },
         {
-          "titulo": "10 frases toscas que desenvolvedores falam #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=E1AKLEVBJ_o"
+          "titulo": "Another one bites the dust",
+          "url": "https://www.youtube.com/watch?v=rY0WxgSXdEE"
         },
         {
-          "titulo": "Programação pode mudar vidas (inclusive a sua!) - Vida de Programadora Episódio 3",
-          "url": "https://www.youtube.com/watch?v=wpSVpQHhfHg"
+          "titulo": "We are the champions",
+          "url": "https://www.youtube.com/watch?v=04854XqcfCY"
         },
         {
-          "titulo": "O que são Git e Github? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=P4BNi_yPehc"
+          "titulo": "Radio Ga Ga",
+          "url": "https://www.youtube.com/watch?v=azdwsXLmrHE"
+        }
+      ]
+    },
+    {
+      "titulo": "Metallica",
+      "link": "https://www.metallica.com",
+      "cor": "#2457f2",
+      "link_extra": {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/user/MetallicaTV"
+      },
+      "videos": [
+        {
+          "titulo": "Moth into flame",
+          "url": "https://www.youtube.com/watch?v=4tdKl-gTpZg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Nothing else matters",
+          "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI"
         },
         {
-          "titulo": "Como estudar? - Alura Live #34",
-          "url": "https://www.youtube.com/watch?v=D8rGA6XmJYI"
+          "titulo": "Enter Sandman",
+          "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
         },
         {
-          "titulo": "O que é JavaScript? | #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=NaVSbnnV75Q"
+          "titulo": "The unforgiven",
+          "url": "https://www.youtube.com/watch?v=Ckom3gf57Yw"
+        },
+        {
+          "titulo": "One",
+          "url": "https://www.youtube.com/watch?v=WM8bTdBs-cw"
+        },
+        {
+          "titulo": "Whiskey in the jar",
+          "url": "https://www.youtube.com/watch?v=boanuwUMNNQ"
+        },
+        {
+          "titulo": "For whom the bell tolls",
+          "url": "https://www.youtube.com/watch?v=eeqGuaAl6Ic"
+        },
+        {
+          "titulo": "Sad but true",
+          "url": "https://www.youtube.com/watch?v=A8MO7fkZc5o"
         }        
       ]
     },
     {
-      "titulo": "Rocketseat",
+      "titulo": "Foo Fighters",
       "cor": "#b53cff",
       "link_extra": {
-        "text": "Vídeos Favoritos da Rocketseat",
-        "url": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCi2KNss4Yx73NG0JARSFe0A"
       },
       "videos": [
         {
-          "titulo":"Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes",
-          "url": "https://www.youtube.com/watch?v=DDm0M_rZLJo"
+          "titulo":"The pretender",
+          "url": "https://www.youtube.com/watch?v=SBjQ9tuuTJQ"
         },
         {
-          "titulo": "Clonando interface do Uber com React Native | Diego Fernandes",
-          "url": "https://www.youtube.com/watch?v=bg-U0xZwcRk"
+          "titulo": "Best of you",
+          "url": "https://www.youtube.com/watch?v=h_L4Rixya64"
         },
         {
-          "titulo": "TypeScript - O que é e quais os seus benefícios? | Diego Fernandes",
-          "url": "https://www.youtube.com/watch?v=kg2-SMolAV0"
+          "titulo": "Everlong",
+          "url": "https://www.youtube.com/watch?v=eBG7P-K-r1Y"
         },
         {
-          "titulo": "Criando sua própria template no React Native | Claudio Orlandi",
-          "url": "https://www.youtube.com/watch?v=p6d3RzhgQbA"
+          "titulo": "Learn to fly",
+          "url": "https://www.youtube.com/watch?v=1VQ_3sBZEm0"
         }, 
         {
-          "titulo": "Como usar Git e Github na prática: Guia para iniciantes | Mayk Brito",
-          "url": "https://www.youtube.com/watch?v=2alg7MQ6_sI"
+          "titulo": "Walk",
+          "url": "https://www.youtube.com/watch?v=4PkcfQtibmU"
+        },
+        {
+          "titulo": "All my life",
+          "url": "https://www.youtube.com/watch?v=xQ04WbgI9rg"
         }
       ]
     },
     {
-      "titulo": "Filipe Deschamps",
+      "titulo": "Breaking Benjamin",
       "cor": "#f0f828",
       "link_extra": {
-        "text": "Favoritos de Filipe Deschamps",
-        "url": "https://www.youtube.com/c/FilipeDeschamps/"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCJhe07czqzg4UzpjvQWkmMQ"
       },
       "videos": [
         {
-          "titulo": "3 Técnicas Que Eu Uso Para Aprender a Programar Qualquer Coisa (mesmo sem ter o dom da programação)",
-          "url": "https://www.youtube.com/watch?v=ZtMzB5CoekE"
+          "titulo": "The diary of Jane",
+          "url": "https://www.youtube.com/watch?v=DWaB4PXCwFU"
         },
         {
-          "titulo": "Eu fiz um dos melhores cursos de Programação do Mundo! (minhas impressões)",
-          "url": "https://www.youtube.com/watch?v=elIl48sZ3rA"
+          "titulo": "Angels fall",
+          "url": "https://www.youtube.com/watch?v=9zFfRSeA1ls"
         },
         {
-          "titulo": "Os 3 Livros Que Fizeram Eu Não Desistir da Programação (e o que aprendi com eles)",
-          "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
+          "titulo": "Failure",
+          "url": "https://www.youtube.com/watch?v=fVIh1MFWDVw"
         },
         {
-          "titulo": "Os 4 hábitos que tornam você um programador ineficiente",
-          "url": "https://www.youtube.com/watch?v=H6TVXfb0BTw"
+          "titulo": "Red cold river",
+          "url": "https://www.youtube.com/watch?v=2kCbFmjEi6A"
+        },
+        {
+          "titulo": "Give me a sign",
+          "url": "https://www.youtube.com/watch?v=97S66xee0U8"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Disturbed",
       "cor": "orange",
+      "link_extra": {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCveWMJeHgcIUPMnFzd7Vxjg"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "The sound of silence",
+          "url": "https://www.youtube.com/watch?v=u9Dg-g7t2l4"
         },
         {
-          "titulo": "Tempos Modernos",
-          "url": "https://www.youtube.com/watch?v=FNv7M-UPNuY"
+          "titulo": "Down with the sickness",
+          "url": "https://www.youtube.com/watch?v=09LTT0xwdfw"
         },
         {
-          "titulo": "Matrix",
-          "url": "https://www.youtube.com/watch?v=m8e-FF8MsqU"
+          "titulo": "Stricken",
+          "url": "https://www.youtube.com/watch?v=3moLkjvhEu0"
         },
         {
-          "titulo": "1984",
-          "url": "https://www.youtube.com/watch?v=Z4rBDUJTnNU"
+          "titulo": "Land of confusion",
+          "url": "https://www.youtube.com/watch?v=YV4oYkIeGJc"
+        },
+        {
+          "titulo": "Indestructible",
+          "url": "https://www.youtube.com/watch?v=aWxBrI0g1kE"
+        },
+        {
+          "titulo": "Inside the fire",
+          "url": "https://www.youtube.com/watch?v=rxujAPhxlo0"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Legião Urbana",
       "cor": "red",
+      "link_extra": {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UC5K6XcVwZuLfYRGZaeBqSeQ"
+      },
       "videos": [
         {
-          "titulo": "GTA San Andreas",
-          "url": "https://www.youtube.com/watch?v=daw8xhaGj2s"
+          "titulo": "Índios",
+          "url": "https://www.youtube.com/watch?v=nM_gEzvhsM0"
         },
         {
-          "titulo": "Midnight Club 3",
-          "url": "https://www.youtube.com/watch?v=6R6ZpscfQSg"
+          "titulo": "Faroeste Caboclo",
+          "url": "https://www.youtube.com/watch?v=eL6zdEwRKws"
         },
         {
-          "titulo": "Need for speed: underground 2",
-          "url": "https://www.youtube.com/watch?v=Xl38fecVFzU"
+          "titulo": "Pais e filhos",
+          "url": "https://www.youtube.com/watch?v=bvIMBVBRpJU"
         },
         {
-          "titulo": "Black",
-          "url": "https://www.youtube.com/watch?v=G_FeNewtM_I"
-        }
-      ]
-    },
-    {
-      "titulo": "Séries",
-      "cor": "#00C86f",
-      "videos": [
-        {
-          "titulo": "Black Mirror",
-          "url": "https://www.youtube.com/watch?v=1w8LBG2qbqc"
-        },
-        {
-          "titulo": "Peaky Blinders",
-          "url": "https://www.youtube.com/watch?v=oVzVdvGIC7U"
-        },
-        {
-          "titulo": "Stranger things",
-          "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
-        },
-        {
-          "titulo": "13 reasons why",
-          "url": "https://www.youtube.com/watch?v=p3Q1IjfBIm0"
+          "titulo": "Há tempos",
+          "url": "https://www.youtube.com/watch?v=rnCTXKqfuGc"
         }
       ]
     }
+    
   ]
 }
