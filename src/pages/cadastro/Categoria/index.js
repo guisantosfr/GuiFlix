@@ -27,8 +27,8 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    console.log('Mudou');
-    const URL = 'http://localhost:8080/categorias';
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http://localhost:8080/categorias' : 'https://rock-flix.herokuapp.com/categorias';
     fetch(URL)
       .then(async (response) => {
         const resposta = await response.json();
@@ -36,30 +36,6 @@ function CadastroCategoria() {
           ...resposta,
         ]);
       });
-
-    // setTimeout(() => {
-    //   setCategorias([
-    //     ...categorias,
-    //     {
-    //       id: 1,
-    //       nome: 'Heavy Metal',
-    //       descricao: 'Gênero heavy',
-    //       cor: '#6bd1ff',
-    //     },
-    //     {
-    //       id: 2,
-    //       nome: 'Indie',
-    //       descricao: 'Gênero indie',
-    //       cor: '#d16bff',
-    //     },
-    //     {
-    //       id: 3,
-    //       nome: 'Punk Rock',
-    //       descricao: 'Gênero punk',
-    //       cor: '#ffd16c',
-    //     },
-    //   ]);
-    // }, 3 * 1000);
   }, []);
 
   return (
