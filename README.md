@@ -1,51 +1,27 @@
-<div style="text-align:center">
-  <img src="src/assets/img/Logo.png">
+  <p align="center">
+    <img src="src/assets/img/Logo.png" width="300px"/>
+  </p>
+  
+  Projeto React desenvolvido na 'Imersão React' da Alura.
+  
+  ## Pré-requisitos
 
-  A front-end project developed in the 'Imersão React' from Alura.
+  É necessário a instalação do [node.js](nodejs.org).
 
-  ## Getting Started
+  ## Instruções
+  <ol>
+    <li>Clone o repositório com `git clone`</li>
+    <li>Utlize `npm install` ou `yarn install` no diretório do projeto para instalar todas as dependências</li>
+    <li>Em seguida, digite no terminal o comando `npm run dev` para iniciar os servers de desenvolvimento (portas 3000 no front-end e 8080 no back-end)</li>
+  </ol>
+  
+  ## :rocket: Tecnologias utilizadas
 
-<<<<<<< HEAD
-<ol>
-  <li>In the project directory, run `npm install` to install the dependencies</li>
-  2. Next, run `yarn start` to start the development server
-  3. [localhost:3000](localhost:3000) will open in your browser
-<ol>
-
-  ### Prerequisites
-
-  You need [node](nodejs.org) installed to run the project
-
-  ## Built With
-
-  * [NodeJS](http://www.nodejs.org/en/docs) 
   * [ReactJS](https://reactjs.org/docs/getting-started.html)
+  * [NodeJS](http://www.nodejs.org/en/docs)
+  * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
   * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-  ## License
+  ### License
 
   This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
- </div> 
-=======
-  1. In the project directory, run `npm install` to install the dependencies
-  2. Next, run `yarn start` to start the development server
-  3. [localhost:3000](localhost:3000) will open in your browser
-
-
-  ### Prerequisites
-
-  You need [node](nodejs.org) installed to run the project
-
-  ## Built With
-
-  * [NodeJS](http://www.nodejs.org/en/docs) 
-  * [ReactJS](https://reactjs.org/docs/getting-started.html)
-  * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-  ## License
-
-  This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
- </div>
->>>>>>> 498ccf56fce2b692fceda516b45da3cbb0a92692
