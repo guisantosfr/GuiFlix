@@ -97,7 +97,7 @@ function FormField({
           name={name}
           hasValue={hasValue}
           onChange={onChange}
-          autoComplete={hasSuggestions ? "off" : undefined}
+          autoComplete={hasSuggestions ? 'off' : 'on'}
           list={hasSuggestions ? `suggestionFor_${fieldId}` : undefined}
         />
         <Label.Text>
@@ -108,7 +108,7 @@ function FormField({
             <datalist id={`suggestionFor_${fieldId}`}>
               {
             suggestions.map((suggestion) => (
-              <option value={suggestion}>
+              <option value={suggestion} key={ `suggestionFor_${fieldId}_option${suggestion}` }>
                 {suggestion}
               </option>
             ))

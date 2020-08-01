@@ -2,43 +2,56 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
-      "cor": "#6BD1FF",
+      "titulo": "Queen",
+      "cor": "#f57f25",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCiMhD4jzUqG-IgPzUmmytRQ"
       }
     },
     {
       "id": 2,
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Metallica",
+      "cor": "#e2e3dc",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/user/MetallicaTV"
       }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Foo Fighters",
+      "cor": "#e83d2a",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCi2KNss4Yx73NG0JARSFe0A"
       }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
+      "titulo": "Breaking Benjamin",
+      "cor": "#0ff5c3",
+      "link_extra": {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCJhe07czqzg4UzpjvQWkmMQ"
+      }
     },
     {
       "id": 5,
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "Disturbed",
+      "cor": "#edc009",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UCveWMJeHgcIUPMnFzd7Vxjg"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Legião Urbana",
+      "cor": "#6a6e64",
+      "link_extra": {
+        "text": "Youtube",
+        "url": "https://www.youtube.com/channel/UC5K6XcVwZuLfYRGZaeBqSeQ"
       }
     }
   ],
@@ -46,158 +59,188 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "Bohemian Rhapsody",
+      "url": "https://www.youtube.com/watch?v=fJ9rUzIMcZQ"
     },
     {
       "id": 2,
       "categoriaId": 1,
-      "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+      "titulo": "Don't stop me now",
+      "url": "https://www.youtube.com/watch?v=HgzGwKwLmgM"
     },
     {
       "id": 3,
       "categoriaId": 1,
-      "titulo": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+      "titulo": "Another one bites the dust",
+      "url": "https://www.youtube.com/watch?v=rY0WxgSXdEE"
     },
     {
       "id": 4,
       "categoriaId": 1,
-      "titulo": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+      "titulo": "We are the champions",
+      "url": "https://www.youtube.com/watch?v=04854XqcfCY"
     },
     {
       "id": 5,
-      "categoriaId": 1,
-      "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+      "categoriaId": 2,
+      "titulo": "Nothing else matters",
+      "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI"
     },
     {
       "id": 6,
-      "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "categoriaId": 2,
+      "titulo": "Moth into flame",
+      "url": "https://www.youtube.com/watch?v=4tdKl-gTpZg"
     },
     {
       "id": 7,
-      "categoriaId": 1,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+      "categoriaId": 2,
+      "titulo": "Enter Sandman",
+      "url": "https://www.youtube.com/watch?v=CD-E-LDc384"
     },
     {
       "id": 8,
       "categoriaId": 2,
-      "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+      "titulo": "The unforgiven",
+      "url": "https://www.youtube.com/watch?v=Ckom3gf57Yw"
     },
     {
       "id": 9,
       "categoriaId": 2,
-      "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+      "titulo": "One",
+      "url": "https://www.youtube.com/watch?v=WM8bTdBs-cw"
     },
     {
       "id": 10,
-      "categoriaId": 2,
-      "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+      "categoriaId": 3,
+      "titulo": "The pretender",
+      "url": "https://www.youtube.com/watch?v=SBjQ9tuuTJQ"
     },
     {
       "id": 11,
-      "categoriaId": 2,
-      "titulo": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "categoriaId": 3,
+      "titulo": "Best of you",
+      "url": "https://www.youtube.com/watch?v=h_L4Rixya64"
     },
     {
       "id": 12,
-      "categoriaId": 2,
-      "titulo": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+      "categoriaId": 3,
+      "titulo": "Everlong",
+      "url": "https://www.youtube.com/watch?v=eBG7P-K-r1Y"
     },
     {
       "id": 13,
       "categoriaId": 3,
-      "titulo": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+      "titulo": "Learn to fly",
+      "url": "https://www.youtube.com/watch?v=1VQ_3sBZEm0"
     },
     {
       "id": 14,
       "categoriaId": 3,
-      "titulo": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+      "titulo": "Walk",
+      "url": "https://www.youtube.com/watch?v=4PkcfQtibmU"
     },
     {
       "id": 15,
-      "categoriaId": 3,
-      "titulo": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+      "categoriaId": 4,
+      "titulo": "The diary of Jane",
+      "url": "https://www.youtube.com/watch?v=DWaB4PXCwFU"
     },
     {
       "id": 16,
-      "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "categoriaId": 4,
+      "titulo": "Angels fall",
+      "url": "https://www.youtube.com/watch?v=9zFfRSeA1ls"
     },
     {
       "id": 17,
       "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "titulo": "Failure",
+      "url": "https://www.youtube.com/watch?v=fVIh1MFWDVw"
     },
     {
       "id": 18,
       "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "titulo": "Red cold river",
+      "url": "https://www.youtube.com/watch?v=2kCbFmjEi6A"
     },
     {
       "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "categoriaId": 5,
+      "titulo": "The sound of silence",
+      "url": "https://www.youtube.com/watch?v=u9Dg-g7t2l4"
     },
     {
       "id": 20,
-      "categoriaId": 4,
-      "titulo": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+      "categoriaId": 5,
+      "titulo": "Down with the sickness",
+      "url": "https://www.youtube.com/watch?v=09LTT0xwdfw"
     },
     {
       "id": 21,
       "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "titulo": "Stricken",
+      "url": "https://www.youtube.com/watch?v=3moLkjvhEu0"
     },
     {
       "id": 22,
       "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+      "titulo": "Land of confusion",
+      "url": "https://www.youtube.com/watch?v=YV4oYkIeGJc"
     },
     {
       "id": 23,
       "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+      "titulo": "Indestructible",
+      "url": "https://www.youtube.com/watch?v=aWxBrI0g1kE"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Indestructible",
+      "url": "https://www.youtube.com/watch?v=aWxBrI0g1kE"
     },
     {
       "id": 24,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "categoriaId": 6,
+      "titulo": "Índios",
+      "url": "https://www.youtube.com/watch?v=nM_gEzvhsM0"
     },
     {
-      "titulo": "Video padrão",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 1,
-      "id": 25
+      "id": 25,
+      "categoriaId": 6,
+      "titulo": "Faroeste Caboclo",
+      "url": "https://www.youtube.com/watch?v=eL6zdEwRKws"
     },
     {
-      "titulo": "As skills front end",
-      "url": "https://www.youtube.com/watch?v=TWy2rxyZLrE",
+      "id": 26,
+      "categoriaId": 6,
+      "titulo": "Pais e filhos",
+      "url": "https://www.youtube.com/watch?v=bvIMBVBRpJU"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Há tempos",
+      "url": "https://www.youtube.com/watch?v=rnCTXKqfuGc"
+    },
+    {
+      "titulo": "Radio Ga Ga",
+      "url": "https://www.youtube.com/watch?v=azdwsXLmrHE",
       "categoriaId": 1,
-      "id": 26
+      "id": 28
+    },
+    {
+      "titulo": "Whiskey in the Jar",
+      "url": "https://www.youtube.com/watch?v=wsrvmNtWU4E",
+      "categoriaId": 2,
+      "id": 29
+    },
+    {
+      "titulo": "Give me a sign",
+      "url": "https://www.youtube.com/watch?v=97S66xee0U8",
+      "categoriaId": 4,
+      "id": 30
     }
   ]
 }

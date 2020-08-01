@@ -2,7 +2,7 @@
   "categorias": [
     {
       "titulo": "Queen",
-      "cor": "#00C86f",
+      "cor": "#f57f25",
       "link_extra": {
         "text": "Youtube",
         "url": "https://www.youtube.com/channel/UCiMhD4jzUqG-IgPzUmmytRQ"
@@ -23,29 +23,25 @@
         {
           "titulo": "We are the champions",
           "url": "https://www.youtube.com/watch?v=04854XqcfCY"
-        },
-        {
-          "titulo": "Radio Ga Ga",
-          "url": "https://www.youtube.com/watch?v=azdwsXLmrHE"
         }
       ]
     },
     {
       "titulo": "Metallica",
       "link": "https://www.metallica.com",
-      "cor": "#2457f2",
+      "cor": "#e2e3dc",
       "link_extra": {
         "text": "Youtube",
         "url": "https://www.youtube.com/user/MetallicaTV"
       },
       "videos": [
         {
-          "titulo": "Moth into flame",
-          "url": "https://www.youtube.com/watch?v=4tdKl-gTpZg"
-        },
-        {
           "titulo": "Nothing else matters",
           "url": "https://www.youtube.com/watch?v=tAGnKpE4NCI"
+        },
+        {
+          "titulo": "Moth into flame",
+          "url": "https://www.youtube.com/watch?v=4tdKl-gTpZg"
         },
         {
           "titulo": "Enter Sandman",
@@ -58,24 +54,12 @@
         {
           "titulo": "One",
           "url": "https://www.youtube.com/watch?v=WM8bTdBs-cw"
-        },
-        {
-          "titulo": "Whiskey in the jar",
-          "url": "https://www.youtube.com/watch?v=boanuwUMNNQ"
-        },
-        {
-          "titulo": "For whom the bell tolls",
-          "url": "https://www.youtube.com/watch?v=eeqGuaAl6Ic"
-        },
-        {
-          "titulo": "Sad but true",
-          "url": "https://www.youtube.com/watch?v=A8MO7fkZc5o"
-        }        
+        }   
       ]
     },
     {
       "titulo": "Foo Fighters",
-      "cor": "#b53cff",
+      "cor": "#e83d2a",
       "link_extra": {
         "text": "Youtube",
         "url": "https://www.youtube.com/channel/UCi2KNss4Yx73NG0JARSFe0A"
@@ -100,16 +84,12 @@
         {
           "titulo": "Walk",
           "url": "https://www.youtube.com/watch?v=4PkcfQtibmU"
-        },
-        {
-          "titulo": "All my life",
-          "url": "https://www.youtube.com/watch?v=xQ04WbgI9rg"
         }
       ]
     },
     {
       "titulo": "Breaking Benjamin",
-      "cor": "#f0f828",
+      "cor": "#0ff5c3",
       "link_extra": {
         "text": "Youtube",
         "url": "https://www.youtube.com/channel/UCJhe07czqzg4UzpjvQWkmMQ"
@@ -130,16 +110,12 @@
         {
           "titulo": "Red cold river",
           "url": "https://www.youtube.com/watch?v=2kCbFmjEi6A"
-        },
-        {
-          "titulo": "Give me a sign",
-          "url": "https://www.youtube.com/watch?v=97S66xee0U8"
         }
       ]
     },
     {
       "titulo": "Disturbed",
-      "cor": "orange",
+      "cor": "#edc009",
       "link_extra": {
         "text": "Youtube",
         "url": "https://www.youtube.com/channel/UCveWMJeHgcIUPMnFzd7Vxjg"
@@ -173,7 +149,7 @@
     },
     {
       "titulo": "Legião Urbana",
-      "cor": "red",
+      "cor": "#6a6e64",
       "link_extra": {
         "text": "Youtube",
         "url": "https://www.youtube.com/channel/UC5K6XcVwZuLfYRGZaeBqSeQ"
